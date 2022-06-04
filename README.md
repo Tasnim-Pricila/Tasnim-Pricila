@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Tasnim Pricila</h1>
-<h3 align="center">Junior Frontend Developer</h3>
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQEOyz7acQnjJw/profile-displaybackgroundimage-shrink_350_1400/0/1653853839810?e=1659571200&v=beta&t=UeWoCDGsC5t67FxGZnE8WcTRIvq8-DOblVzDXJDkdfw)
 
