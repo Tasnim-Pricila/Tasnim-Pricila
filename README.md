@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Techfly](https://techfly-eef56.web.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **anything**
 
