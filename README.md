@@ -5,7 +5,9 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQEOyz7acQnjJw/profile-displaybackgroundimage-shrink_350_1400/0/1653853839810?e=1659571200&v=beta&t=UeWoCDGsC5t67FxGZnE8WcTRIvq8-DOblVzDXJDkdfw)
 <br/>
 
-# 📫 Current Overview
+# 👀 Current Overview
+
+<br/>
 
  🔭 I’m currently working on [Techfly](https://techfly-eef56.web.app/)
 
@@ -14,6 +16,7 @@
  ❓ Ask me **anything about MERN related technologies**
 
 
+<br/>
 
 # 📫 Reach me with
 
@@ -36,7 +39,7 @@
 
 <br/>  
 
-<h3 align="left">Languages and Tools:</h3>
+# 🖥️ Languages and Tools:
 <p align="left"> 
 <!-- Html -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
@@ -68,7 +71,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tasnim-Pricila&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tasnim-Pricila&theme=dark&hide_border=true)<br/>
- # 📊 Language Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnim-Pricila&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
