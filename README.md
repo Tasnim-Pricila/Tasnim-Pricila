@@ -9,11 +9,11 @@
 
 <br/>
 
- 🔭 I’m currently working on [Techfly](https://techfly-eef56.web.app/)
+ 🔭 I’m currently working on [Winkles](https://winkles.vercel.app/)
 
  🌱 I’m currently learning **Next.js**
 
- ❓ Ask me **anything about MERN related technologies**
+ ❓ Ask me **about MERN related technologies**
 
 
 <br/>
