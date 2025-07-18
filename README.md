@@ -10,9 +10,13 @@
 <br/>
 
  🚀 I love building modern, user-friendly web apps that are both visually appealing and highly functional.
+ 
 🌱 Currently sharpening my skills in advanced JavaScript, performance optimization, and cutting-edge frontend frameworks.
+
 🎨 Passionate about clean UI, smooth UX, and minimal design that speaks volumes.
+
 🌐 Portfolio: tasnim-pricila.netlify.app
+
 📧 Email: tasnimtanzim55@gmail.com
 
 
