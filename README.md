@@ -5,15 +5,15 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQEOyz7acQnjJw/profile-displaybackgroundimage-shrink_350_1400/0/1653853839810?e=1659571200&v=beta&t=UeWoCDGsC5t67FxGZnE8WcTRIvq8-DOblVzDXJDkdfw)
 <br/>
 
-# 👀 Current Overview
+# 👀 About Me
 
 <br/>
 
- 🔭 I’m currently working on [Winkles](https://winkles.vercel.app/)
-
- 🌱 I’m currently learning **Next.js**
-
- ❓ Ask me **about MERN related technologies**
+ 🚀 I love building modern, user-friendly web apps that are both visually appealing and highly functional.
+🌱 Currently sharpening my skills in advanced JavaScript, performance optimization, and cutting-edge frontend frameworks.
+🎨 Passionate about clean UI, smooth UX, and minimal design that speaks volumes.
+🌐 Portfolio: tasnim-pricila.netlify.app
+📧 Email: tasnimtanzim55@gmail.com
 
 
 <br/>
